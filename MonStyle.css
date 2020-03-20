@@ -1,0 +1,4 @@
+h1 , h2 { color: red; }
+p.comment { font-weight: italic; }
+* { color: black; }
+p#introduction { font-size: 120%; }
